@@ -1,0 +1,3 @@
+com\eamtk\process\App.class
+com\eamtk\embedded\web\ProcessServlet.class
+com\eamtk\embedded\util\StartupBean.class
